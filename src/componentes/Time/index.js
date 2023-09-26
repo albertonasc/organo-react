@@ -1,4 +1,4 @@
-import Colaborador from "../Formulario/Colaborador";
+import Colaborador from "../Colaborador";
 import "./Time.css";
 
 const Time = (props) => {
